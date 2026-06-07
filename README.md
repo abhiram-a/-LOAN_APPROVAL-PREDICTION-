@@ -15,29 +15,35 @@ Assist financial institutions in risk assessment.
 
 ## Dataset
 The model is trained on historical loan application data containing applicant information and loan approval status.
-Features Used
-Gender
-Marital Status
-Dependents
-Education
-Self Employment Status
-Applicant Income
-Co-applicant Income
-Loan Amount
-Loan Amount Term
-Credit History
-Property Area
+Features Used,
+Gender,
+Marital Status,
+Dependents,
+Education,
+Self Employment Status,
+Applicant Income,
+Co-applicant Income,
+Loan Amount,
+Loan Amount Term,
+Credit History,
+Property Area,
 
 ## Target Variable
 Loan Status (Approved / Rejected)
 
 ## Technologies Used
 Python: Programming Language
+
 Pandas:	Data Processing
+
 NumPy:	Numerical Operations
+
 Matplotlib:	Data Visualization
+
 Seaborn: Exploratory Data Analysis
+
 Scikit-Learn: Machine Learning
+
 Jupyter Notebook: Development Environment
 
 ## PROCESS FLOW
